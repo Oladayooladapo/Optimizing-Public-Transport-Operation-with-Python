@@ -151,8 +151,8 @@ My approach to this EDA project followed a structured methodology to ensure thor
 
 ## Files in this Repository
 
--   `Optimizing Public Transport Operations Capstone.ipynb`: The main Jupyter Notebook containing all the code for data loading, cleaning, EDA, feature engineering, and insights generation.
+-   `Optimizing Public Transport Operations.ipynb`: The main Jupyter Notebook containing all the code for data loading, cleaning, EDA, feature engineering, and insights generation.
 -   `Public_Transport_Trips_EDA.xlsx`: The raw dataset used for the project. 
--   `OPTIMIZING PUBLIC TRANSIT OPERATIONS.docx`: A detailed document outlining business context, problem, rationale, and strategic recommendations.
+-   `Descriptive Statistics Insights.docx`: A detailed document outlining business context, problem, rationale, and strategic recommendations.
 -   `README.md`: This file.
 
